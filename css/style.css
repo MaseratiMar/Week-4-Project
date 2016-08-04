@@ -1,0 +1,47 @@
+#purple{
+	background-color: purple;
+
+}
+#red{
+	background-color: red;
+}
+#gray-color{
+	background-color: gray;
+	
+}
+#blue-color{
+	background-color: blue;
+	
+}
+#yellow-color{
+	background-color: yellow;
+	
+}
+#fuchsia-color{
+	background-color: fuchsia;
+	
+}
+#green-color{
+	background-color: green;
+
+}
+#content{
+	margin-top: 75px;
+}
+img{
+	height: 240px;
+	width: 320px;
+}
+.thumbnail{
+	height: 340px;
+	width: 325px;
+
+}
+.images{
+	height: 200px;
+
+	 
+}
+.Mar{
+	margin-top: 100px;
+}
